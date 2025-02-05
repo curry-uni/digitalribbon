@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T07:23:23.585+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T07:47:18.619+00:00"}
 ---
 
 <center><h2>Welcome to the Controlled Chaos</h2></center>
@@ -9,11 +9,12 @@
 <center><h4>Menu</h4></center>
 
 ---
-**[[Enter the Lab\|Enter the Lab]]**   ---------------------------- <right>£79,000</right>
-**Travel Log**  ---------------------- <right>£18,000</right>
--  **Side Quests**
--  The CV Exhibit
--  Hidden Door?
+**[[Labwork\|Labwork]]** <span style="flex-grow: 1; text-align: center;">----------------------</span><span style="float: right;">**$79,000**</span>
+**The Field Notes**  ---------------------- <right>£18,000</right>
+**Side Quests**
+The CV Exhibit
+Hidden Door?
+Lost & Found
 
 
 Make a note of something, create a link, or try 
