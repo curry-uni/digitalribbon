@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T08:37:34.189+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T08:41:47.136+00:00"}
 ---
 
 <center><h2>Welcome to the Controlled Chaos</h2></center>
@@ -12,7 +12,11 @@
 
 
 **[[Entre the Lab\|Entre the Lab]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────</span> **$79,000**
-<br>
+<br>**[[The Field Notes\|The Field Notes]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────</span> **$100**
+
+
+
+
 **The Field Notes** <span style="display: inline-block; text-align: center; min-width: 40ch;">─────────────────────────────</span><span style="float: right;">£18,000</span>
 <br>
 **Side Quests**<span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────</span><span style="float: right; ">£1,000</span>
