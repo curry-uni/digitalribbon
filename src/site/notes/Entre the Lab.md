@@ -1,11 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/entre-the-lab/","updated":"2025-02-05T10:58:10.946+00:00"}
+{"dg-publish":true,"permalink":"/entre-the-lab/","updated":"2025-02-05T11:07:22.437+00:00"}
 ---
 
 
 human A549 carcinoma lung cells
 
-<!DOCTYPE html>
+.lab-container {display: flex; flex-direction: column; gap: 20px;}
+
+.lab-station {position: relative; padding: 20px; border: 2px solid #000; background-color: #fff; cursor: pointer; text-align: center; transition: all 0.3s ease-in-out;}
+
+
+.lab-station:hover {
+    background-color: #f0f0f0;
+    transform: scale(1.05);
+}
+
+.station-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.station-description {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    width: 80%;
+    opacity: 0;
+ 
+
+
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
