@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T07:47:18.619+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T07:55:20.455+00:00"}
 ---
 
 <center><h2>Welcome to the Controlled Chaos</h2></center>
@@ -10,6 +10,10 @@
 
 ---
 **[[Labwork\|Labwork]]** <span style="flex-grow: 1; text-align: center;">----------------------</span><span style="float: right;">**$79,000**</span>
+
+**[[Labwork\|Labwork]]** <span style="display: inline-block; text-align: center; width: 50%;">────────────────────</span> **$79,000**
+
+
 **The Field Notes**  ---------------------- <right>£18,000</right>
 **Side Quests**
 The CV Exhibit
