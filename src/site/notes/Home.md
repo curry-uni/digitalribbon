@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T08:19:33.896+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T08:37:34.189+00:00"}
 ---
 
 <center><h2>Welcome to the Controlled Chaos</h2></center>
@@ -30,10 +30,13 @@ Make a note of something, create a link, or try
 
 ---
 
-**[[Enter the Lab\|Enter the Lab]]** 
-<span style="display: inline-block; width: 70%; text-align: left;">────────────────────────────────</span><span style="float: right;">£18,000</span>
+**[[Enter the Lab\|Enter the Lab]]** <span style="float: centre; width: 80%; text-align: center;">────────────────────────────────</span><span style="float: right; font-weight: bold;">£18,000</span>
 <br>
-**The Field Notes** 
+
+<span style="font-weight: bold">£18,000</span>
+
+
+<span style="font-weight: bold; transition: transform 0.3s; display: inline-block;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">Lab</span>
 <span style="display: inline-block; width: 80%; text-align: left;">────────────────────────────────</span><span style="float: right;">£80,000</span>
 <br>
 **Side Quests** 
@@ -46,4 +49,8 @@ Hidden Door?
 <span style="display: inline-block; width: 100%; text-align: center;">──────────────────────────────────</span> **$6,500**
 <br>
 Lost & Found 
-<span style="display: inline-block; width: 100%; text-align: center;">──────────────────────────────────</span> **$9,050**
+<span style="display: inline-block; width: 100%; text-align: center;">──────────────────────────────────</span> **$9,050**]
+
+
+
+**[[Enter the Lab\|Enter the Lab]]** <span style="float: centre;">────────────────────────────────</span> <span style="float: right; font-weight: bold;">£18,000</span>
