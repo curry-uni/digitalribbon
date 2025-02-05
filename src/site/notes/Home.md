@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T08:41:47.136+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T08:56:33.423+00:00"}
 ---
 
 <center><h2>Welcome to the Controlled Chaos</h2></center>
@@ -11,50 +11,14 @@
 ---
 
 
-**[[Entre the Lab\|Entre the Lab]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────</span> **$79,000**
-<br>**[[The Field Notes\|The Field Notes]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────</span> **$100**
-
-
-
-
-**The Field Notes** <span style="display: inline-block; text-align: center; min-width: 40ch;">─────────────────────────────</span><span style="float: right;">£18,000</span>
-<br>
-**Side Quests**<span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────</span><span style="float: right; ">£1,000</span>
-<br>The CV Exhibit<span style="display: inline-block; text-align: center; min-width: 40ch;">──────────────────────────────────</span> **$79,000**
-<br>Hidden Door?<span style="display: inline-block; text-align: center; min-width: 40ch;">──────────────────────────────────</span> **$6,500**
-<br>Lost & Found<span style="display: inline-block; text-align: center; min-width: 40ch;">──────────────────────────────────</span> **$9,050**
+**[[Entre the Lab\|Entre the Lab]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">───────────────────────────────────</span> **£79,000**
+<br>**[[The Field Notes\|The Field Notes]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">──────────────────────────────────</span> **£46,000**
+<br>**[[Side Quests\|Side Quests]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────────</span> **£7,000**
+<br>**[[The Resume Exhibit\|The Resume Exhibit]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">───────────────────────────────</span> **£50**
+<br>**[[Hidden Door?\|Hidden Door?]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">───────────────────────────────────</span> **£1,000**
+<br>**[[Lost & Found\|Lost & Found]]** <span style="display: inline-block; text-align: center; margin-left: 30px; margin-right: 30px;">────────────────────────────────────</span> **£0**
 
 
 Make a note of something, create a link, or try 
 
 [how to publish](https://www.youtube.com/watch?v=eULVrTjT11w&t=435s)
-
-
-<center><h4>Menu</h4></center>
-
----
-
-**[[Enter the Lab\|Enter the Lab]]** <span style="float: centre; width: 80%; text-align: center;">────────────────────────────────</span><span style="float: right; font-weight: bold;">£18,000</span>
-<br>
-
-<span style="font-weight: bold">£18,000</span>
-
-
-<span style="font-weight: bold; transition: transform 0.3s; display: inline-block;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">Lab</span>
-<span style="display: inline-block; width: 80%; text-align: left;">────────────────────────────────</span><span style="float: right;">£80,000</span>
-<br>
-**Side Quests** 
-<span style="display: inline-block; width: 90%; text-align: left;">────────────────────────────────</span> £90,000
-<br>
-The CV Exhibit 
-<span style="display: inline-block; width: 100%; text-align: center;">──────────────────────────────────</span> **$79,000**
-<br>
-Hidden Door? 
-<span style="display: inline-block; width: 100%; text-align: center;">──────────────────────────────────</span> **$6,500**
-<br>
-Lost & Found 
-<span style="display: inline-block; width: 100%; text-align: center;">──────────────────────────────────</span> **$9,050**]
-
-
-
-**[[Enter the Lab\|Enter the Lab]]** <span style="float: centre;">────────────────────────────────</span> <span style="float: right; font-weight: bold;">£18,000</span>
