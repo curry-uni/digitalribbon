@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-05T12:32:20.488+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-02-07T03:02:34.777+00:00"}
 ---
 
 <center><h2>Welcome to the Controlled Chaos</h2></center>
@@ -12,9 +12,9 @@
 
 
 **[[Entre the Lab\|Entre the Lab]]** <span style="display: inline-block; text-align: center; margin-left: 50px; margin-right: 50px;">────────────────────────────────</span><span style=" text-align: right;font-weight: bold;">£79.000</span>
-fungi, toxins, a splice of bronchus, and clinical reports
+###### fungi, toxins, a splice of bronchus, and clinical reports
 <br><br>**[[The Field Notes\|The Field Notes]]** <span style="display: inline-block; text-align: center; margin-left: 50px; margin-right: 42px;">───────────────────────────────</span><span style=" text-align: right;font-weight: bold;">£46,000</span>
-x
+<h6> fungi, toxins, a splice of bronchus </h6>
 <br><br>**[[Side Quests\|Side Quests]]** <span style="display: inline-block; text-align: center; margin-left: 50px; margin-right: 59px;">─────────────────────────────────</span><span style=" text-align: right;font-weight: bold;">£7,000</span>
 x
 <br><br>**[[The Resume Exhibit\|The Resume Exhibit]]** <span style="display: inline-block; text-align: center; margin-left: 50px; margin-right: 71px;">────────────────────────────</span> <span style=" text-align: right;font-weight: bold;">£80</span>
