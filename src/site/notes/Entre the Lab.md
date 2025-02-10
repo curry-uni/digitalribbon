@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entre-the-lab/","updated":"2025-02-10T11:13:27.932+00:00"}
+{"dg-publish":true,"permalink":"/entre-the-lab/","updated":"2025-02-10T11:15:40.492+00:00"}
 ---
 
 
 human A549 carcinoma lung cells
 
 
-## **Summary of Master’s Thesis**
-## **_Title: Differential Effects of Airway Epithelial Damage on Aspergillus fumigatus Growth: Implications for Fungal Colonization in Compromised Airways_**
+###### **Summary of Master’s Thesis**
+### **_Title: Differential Effects of Airway Epithelial Damage on Aspergillus fumigatus Growth: Implications for Fungal Colonization in Compromised Airways_**
 
 #### 🔹**Background:**
 - _Aspergillus fumigatus (A. fumigatus)_ is a major respiratory pathogen, posing risks to individuals with weakened airway barri ers (e.g., asthma patients).
