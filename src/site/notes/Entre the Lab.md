@@ -1,13 +1,70 @@
 ---
-{"dg-publish":true,"permalink":"/entre-the-lab/","updated":"2025-02-10T11:15:40.492+00:00"}
+{"dg-publish":true,"permalink":"/entre-the-lab/","updated":"2025-02-10T11:21:40.525+00:00"}
 ---
 
-
-human A549 carcinoma lung cells
-
-
 ###### **Summary of Master’s Thesis**
-### **_Title: Differential Effects of Airway Epithelial Damage on Aspergillus fumigatus Growth: Implications for Fungal Colonization in Compromised Airways_**
+## **_Title: Differential Effects of Airway Epithelial Damage on Aspergillus fumigatus Growth: Implications for Fungal Colonization in Compromised Airways_**
+
+<div class="toggle-section" onclick="toggleInfo(this)">
+    <h3 class="toggle-title">🔹<strong>Background:</strong></h3>
+    <div class="toggle-content">
+        <ul>
+            <li><em>Aspergillus fumigatus (A. fumigatus)</em> is a major respiratory pathogen, posing risks to individuals with weakened airway barriers (e.g., asthma patients).</li>
+            <li>Damage to airway epithelial cells (AECs) can disrupt the epithelial barrier and immune defenses, potentially enhancing fungal colonization, though excessive damage may also inhibit colonization by creating an inhospitable environment.</li>
+        </ul>
+    </div>
+</div>
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Example</title>
+    <style>
+        .toggle-section {
+            cursor: pointer;
+            padding: 10px;
+            border-left: 4px solid #000;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .toggle-title {
+            font-size: 18px;
+            color: #333;
+            margin: 0;
+        }
+
+        .toggle-content {
+            display: none;
+            padding-left: 15px;
+            font-size: 14px;
+            color: #555;
+        }
+
+        /* Show content when active */
+        .toggle-section.active .toggle-content {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="toggle-section">
+        <h3 class="toggle-title">🔹<strong>Background:</strong></h3>
+        <div class="toggle-content">
+            <ul>
+                <li><em>Aspergillus fumigatus (A. fumigatus)</em> is a major respiratory pathogen, posing risks to individuals with weakened airway barriers (e.g., asthma patients).</li>
+                <li>Damage to airway epithelial cells (AECs) can disrupt the epithelial barrier and immune defenses, potentially enhancing fungal colonization, though excessive damage may also inhibit colonization by creating an inhospitable environment.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+
+
 
 #### 🔹**Background:**
 - _Aspergillus fumigatus (A. fumigatus)_ is a major respiratory pathogen, posing risks to individuals with weakened airway barri ers (e.g., asthma patients).
